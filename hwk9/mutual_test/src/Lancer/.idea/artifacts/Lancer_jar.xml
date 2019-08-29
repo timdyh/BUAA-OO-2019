@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lancer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lancer_jar</output-path>
+    <root id="archive" name="Lancer.jar">
+      <element id="module-output" name="Lancer" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/OO/homeworks/hwk9/specs-homework-1-1.1-raw-jar-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rider:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rider_jar</output-path>
+    <root id="archive" name="Rider.jar">
+      <element id="module-output" name="Rider" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/OO/homeworks/hwk9/specs-homework-1-1.1-raw-jar-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

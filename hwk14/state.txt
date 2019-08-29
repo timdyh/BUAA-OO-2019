@@ -1,0 +1,14 @@
+{"_parent":"AAAAAAFF+h6SjaM2Hec=","name":"StateMachine1","_type":"UMLStateMachine","_id":"AAAAAAFrZccYH+x5FlI="}
+{"_parent":"AAAAAAFrZccYH+x5FlI=","visibility":"public","name":null,"_type":"UMLRegion","_id":"AAAAAAFrZccYIOx6FeA="}
+{"_parent":"AAAAAAFrZccYIOx6FeA=","visibility":"public","name":null,"_type":"UMLPseudostate","_id":"AAAAAAFrZccgcuyAz\/w="}
+{"_parent":"AAAAAAFrZccYIOx6FeA=","visibility":"public","name":"State1","_type":"UMLState","_id":"AAAAAAFrZccmuuyRpaQ="}
+{"_parent":"AAAAAAFrZccYIOx6FeA=","visibility":"public","name":null,"_type":"UMLFinalState","_id":"AAAAAAFrZccx6+y24ms="}
+{"_parent":"AAAAAAFrZccYIOx6FeA=","visibility":"public","name":"State2","_type":"UMLState","_id":"AAAAAAFrZcc2i+y7lj0="}
+{"_parent":"AAAAAAFrZccYIOx6FeA=","visibility":"public","name":null,"_type":"UMLPseudostate","_id":"AAAAAAFra7G1EQh07lU="}
+{"_parent":"AAAAAAFrZccYIOx6FeA=","visibility":"public","name":null,"_type":"UMLFinalState","_id":"AAAAAAFra7HfmgiWLgo="}
+{"_parent":"AAAAAAFrZccYIOx6FeA=","visibility":"public","guard":null,"name":null,"_type":"UMLTransition","_id":"AAAAAAFrZcdCCezgWIg=","source":"AAAAAAFrZccgcuyAz\/w=","target":"AAAAAAFrZccmuuyRpaQ="}
+{"_parent":"AAAAAAFrZccYIOx6FeA=","visibility":"public","guard":null,"name":null,"_type":"UMLTransition","_id":"AAAAAAFrZcdKmuzxENo=","source":"AAAAAAFrZccmuuyRpaQ=","target":"AAAAAAFrZccmuuyRpaQ="}
+{"_parent":"AAAAAAFrZccYIOx6FeA=","visibility":"public","guard":null,"name":null,"_type":"UMLTransition","_id":"AAAAAAFrZcdVzu0CuC0=","source":"AAAAAAFrZccmuuyRpaQ=","target":"AAAAAAFrZcc2i+y7lj0="}
+{"_parent":"AAAAAAFrZccYIOx6FeA=","visibility":"public","guard":null,"name":null,"_type":"UMLTransition","_id":"AAAAAAFrZcdiW+0TLXo=","source":"AAAAAAFrZccmuuyRpaQ=","target":"AAAAAAFrZccx6+y24ms="}
+{"_parent":"AAAAAAFrZccYIOx6FeA=","visibility":"public","guard":null,"name":null,"_type":"UMLTransition","_id":"AAAAAAFra7HHrgiF2aM=","source":"AAAAAAFra7G1EQh07lU=","target":"AAAAAAFrZccmuuyRpaQ="}
+{"_parent":"AAAAAAFrZccYIOx6FeA=","visibility":"public","guard":null,"name":null,"_type":"UMLTransition","_id":"AAAAAAFra7HuZgibxP0=","source":"AAAAAAFrZcc2i+y7lj0=","target":"AAAAAAFra7HfmgiWLgo="}

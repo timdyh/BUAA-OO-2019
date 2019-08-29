@@ -1,0 +1,412 @@
+Ok, path id is 1.
+Failed, node id not exist.
+Failed, node id not exist.
+Ok, connected block count is 1.
+Ok, least price is 27.
+Yes.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Ok, length is 0.
+Ok, connected block count is 1.
+Yes.
+No.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 16.
+No.
+Ok, least transfer count is 0.
+Ok, least price is 9.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+Ok, least price is 23.
+Ok, least unpleasant value is 3244.
+Yes.
+Ok, least price is 9.
+Ok, length is 19.
+Ok, least price is 3.
+Ok, connected block count is 1.
+Ok, least transfer count is 0.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+Ok, connected block count is 1.
+Yes.
+Ok, length is 12.
+Yes.
+Ok, least price is 38.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 31.
+Ok, least price is 19.
+Ok, connected block count is 1.
+Ok, length is 8.
+Ok, least price is 17.
+No.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 2450.
+Ok, least price is 11.
+Ok, connected block count is 1.
+Ok, least unpleasant value is 5105.
+Ok, connected block count is 1.
+Ok, least price is 25.
+Ok, least unpleasant value is 1885.
+Ok, connected block count is 1.
+Ok, least price is 29.
+Ok, least transfer count is 0.
+Yes.
+Ok, connected block count is 1.
+Yes.
+Ok, connected block count is 1.
+Failed, node id not exist.
+Yes.
+Ok, least price is 19.
+Yes.
+Failed, node id not exist.
+No.
+Ok, length is 0.
+Ok, length is 7.
+Yes.
+Failed, node id not exist.
+Ok, connected block count is 1.
+Ok, connected block count is 1.
+Ok, length is 22.
+Yes.
+Failed, node id not exist.
+Ok, length is 2.
+No.
+Ok, least price is 10.
+Ok, least transfer count is 0.
+Ok, connected block count is 1.
+Yes.
+Ok, length is 15.
+Ok, connected block count is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 5178.
+Yes.
+Yes.
+Yes.
+Ok, least price is 0.
+Ok, least price is 14.
+No.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 21.
+Ok, least transfer count is 0.
+Failed, node id not exist.
+Yes.
+Ok, connected block count is 1.
+No.
+Yes.
+No.
+Ok, length is 25.
+Yes.
+Ok, connected block count is 1.
+Yes.
+Ok, connected block count is 1.
+Ok, least unpleasant value is 2973.
+Ok, least price is 9.
+Yes.
+Ok, length is 5.
+Ok, least unpleasant value is 4337.
+Ok, length is 0.
+Ok, length is 1.
+Ok, least unpleasant value is 2780.
+Yes.
+Yes.
+Ok, path id is 1.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+Ok, connected block count is 0.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+Ok, connected block count is 0.
+Failed, node id not exist.
+No.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+No.
+No.
+Ok, connected block count is 0.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+No.
+Ok, connected block count is 0.
+Failed, node id not exist.
+Ok, connected block count is 0.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+No.
+No.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Ok, connected block count is 0.
+Failed, node id not exist.
+Ok, connected block count is 0.
+No.
+Failed, node id not exist.
+No.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Ok, connected block count is 0.
+No.
+Ok, connected block count is 0.
+Failed, node id not exist.
+Ok, connected block count is 0.
+Failed, node id not exist.
+Failed, node id not exist.
+No.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Ok, connected block count is 0.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+No.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+Ok, connected block count is 0.
+Failed, node id not exist.
+Failed, node id not exist.
+Failed, node id not exist.
+No.
+No.
+Failed, node id not exist.
+Ok, path id is 2.
+Ok, least unpleasant value is 0.
+No.
+Ok, least transfer count is 0.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, least price is 6.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 916.
+Yes.
+Failed, node id not exist.
+Ok, least transfer count is 0.
+Yes.
+Ok, least transfer count is 0.
+Ok, least price is 4.
+Ok, least transfer count is 0.
+Failed, node id not exist.
+Ok, connected block count is 1.
+No.
+Yes.
+Failed, node id not exist.
+Ok, least unpleasant value is 925.
+Ok, length is 1.
+Ok, connected block count is 1.
+No.
+Ok, length is 14.
+Ok, least transfer count is 0.
+Yes.
+No.
+Ok, least price is 8.
+Yes.
+Ok, least unpleasant value is 953.
+Ok, connected block count is 1.
+Ok, least price is 4.
+Ok, connected block count is 1.
+No.
+Ok, least unpleasant value is 836.
+Ok, connected block count is 1.
+Yes.
+Ok, least unpleasant value is 584.
+No.
+Ok, connected block count is 1.
+Yes.
+Yes.
+Ok, least transfer count is 0.
+No.
+Ok, least price is 4.
+Ok, connected block count is 1.
+Ok, least price is 7.
+Ok, connected block count is 1.
+Ok, least unpleasant value is 516.
+Ok, length is 3.
+Failed, node id not exist.
+Ok, least transfer count is 0.
+Ok, connected block count is 1.
+Yes.
+Yes.
+Ok, least price is 6.
+No.
+Yes.
+Ok, connected block count is 1.
+Yes.
+Ok, length is 6.
+Yes.
+Ok, connected block count is 1.
+Ok, least price is 1.
+Ok, least unpleasant value is 144.
+No.
+Ok, least price is 17.
+Ok, least transfer count is 0.
+Ok, connected block count is 1.
+Ok, least unpleasant value is 80.
+Ok, connected block count is 1.
+Failed, node id not exist.
+Yes.
+Ok, least price is 7.
+Ok, length is 4.
+Yes.
+Ok, least price is 5.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+Ok, least price is 7.
+Ok, connected block count is 1.
+Ok, length is 9.
+Failed, node id not exist.
+Ok, connected block count is 1.
+No.
+No.
+Yes.
+Failed, node id not exist.
+No.
+Ok, least transfer count is 0.
+Ok, least price is 1.
+Ok, least transfer count is 0.
+Ok, least unpleasant value is 920.
+Ok, connected block count is 1.
+Ok, length is 10.
+Ok, length is 5.
+Ok, length is 4.
+Yes.
+Ok, least transfer count is 0.
+Yes.
+Ok, length is 10.
+Ok, connected block count is 1.
+No.
+Ok, least price is 3.
+No.
+Yes.
+Ok, connected block count is 1.
+No.
+Ok, connected block count is 1.
+Ok, least price is 7.
+Ok, least price is 1.
+Ok, length is 2.
+No.
+No.
+Ok, connected block count is 1.
+Yes.
+Ok, path id is 3.
+Ok, least transfer count is 0.
+Failed, node id not exist.
+Ok, length is 62.
+Ok, least unpleasant value is 3665.
+Ok, least unpleasant value is 1968.
+Failed, node id not exist.
+Failed, node id not exist.
+Yes.
+No.
+No.
+No.
+Ok, connected block count is 2.
+Ok, least price is 13.
+Ok, least price is 14.
+Ok, connected block count is 2.
+Ok, least transfer count is 0.
+Ok, connected block count is 2.
+Yes.
+Ok, connected block count is 2.
+Ok, connected block count is 2.
+Ok, least transfer count is 0.
+Yes.
+Yes.
+No.
+No.
+Failed, node not connected with each other.
+Yes.
+Ok, least unpleasant value is 1778.
+Yes.
+Failed, node not connected with each other.
+Ok, connected block count is 2.
+Ok, length is 25.
+Yes.
+Ok, connected block count is 2.
+No.
+Ok, least price is 9.
+No.
+Yes.
+No.
+Ok, least unpleasant value is 680.
+Yes.
+Something wrong with your process.
+java.lang.NullPointerException
+	at MyRailwaySystem.getLeastUnpleasantValue(MyRailwaySystem.java:335)
+	at com.oocourse.specs3.AppRunner.runAsLeastUnpleasantValue(AppRunner.java:918)
+	at com.oocourse.specs3.AppRunner.access$400(AppRunner.java:32)
+	at com.oocourse.specs3.AppRunner$2.lambda$new$20(AppRunner.java:103)
+	at com.oocourse.specs3.AppRunner.runAsArguments(AppRunner.java:375)
+	at com.oocourse.specs3.AppRunner.run(AppRunner.java:286)
+	at Main.main(Main.java:7)
+Ok, length is -1.

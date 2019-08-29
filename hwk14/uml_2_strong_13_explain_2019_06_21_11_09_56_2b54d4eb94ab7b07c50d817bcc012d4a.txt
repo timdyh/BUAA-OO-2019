@@ -1,0 +1,139 @@
+We expected "Ok, message count of umlinteraction "Interaction1" is 21." but we got "Ok, message count of umlinteraction "Interaction1" is 20." at line 103
+Your real output is listed as follows:
+Total class count is 6.
+Ok, operation count of class "Class1" is 0.
+Ok, operation count of class "Class1" is 0.
+Ok, operation count of class "Class1" is 0.
+Ok, attribute count of class "Class1" is 0.
+Ok, attribute count of class "Class1" is 0.
+Ok, top base class of class "Class1" is Class1.
+Ok, implement interfaces of class "Class1" are (Interface1, Interface2, Interface3, Interface4).
+Yes, information of class "Class1" is hidden.
+Ok, association count of class "Class1" is 2.
+Ok, associated classes of class "Class1" are (Class5, Class6).
+Ok, operation count of class "Class2" is 0.
+Ok, operation count of class "Class2" is 0.
+Ok, operation count of class "Class2" is 0.
+Ok, attribute count of class "Class2" is 0.
+Ok, attribute count of class "Class2" is 0.
+Ok, top base class of class "Class2" is Class2.
+Ok, implement interfaces of class "Class2" are (Interface1, Interface2, Interface3, Interface4).
+Yes, information of class "Class2" is hidden.
+Ok, association count of class "Class2" is 2.
+Ok, associated classes of class "Class2" are (Class5, Class6).
+Ok, operation count of class "Class3" is 0.
+Ok, operation count of class "Class3" is 0.
+Ok, operation count of class "Class3" is 0.
+Ok, attribute count of class "Class3" is 0.
+Ok, attribute count of class "Class3" is 0.
+Ok, top base class of class "Class3" is Class3.
+Ok, implement interfaces of class "Class3" are ().
+Yes, information of class "Class3" is hidden.
+Ok, association count of class "Class3" is 1.
+Ok, associated classes of class "Class3" are (Class5).
+Failed, attribute "b" not found in class "Class3".
+Ok, operation count of class "Class4" is 0.
+Ok, operation count of class "Class4" is 0.
+Ok, operation count of class "Class4" is 0.
+Ok, attribute count of class "Class4" is 0.
+Ok, attribute count of class "Class4" is 0.
+Ok, top base class of class "Class4" is Class4.
+Ok, implement interfaces of class "Class4" are ().
+Yes, information of class "Class4" is hidden.
+Ok, association count of class "Class4" is 1.
+Ok, associated classes of class "Class4" are (Class6).
+Ok, operation count of class "Class5" is 0.
+Ok, operation count of class "Class5" is 0.
+Ok, operation count of class "Class5" is 0.
+Ok, attribute count of class "Class5" is 0.
+Ok, attribute count of class "Class5" is 0.
+Ok, top base class of class "Class5" is Class5.
+Ok, implement interfaces of class "Class5" are ().
+Yes, information of class "Class5" is hidden.
+Ok, association count of class "Class5" is 5.
+Ok, associated classes of class "Class5" are (Class1, Class2, Class3, Class5).
+Ok, operation count of class "Class6" is 0.
+Ok, operation count of class "Class6" is 0.
+Ok, operation count of class "Class6" is 0.
+Ok, attribute count of class "Class6" is 0.
+Ok, attribute count of class "Class6" is 0.
+Ok, top base class of class "Class6" is Class6.
+Ok, implement interfaces of class "Class6" are ().
+Yes, information of class "Class6" is hidden.
+Ok, association count of class "Class6" is 5.
+Ok, associated classes of class "Class6" are (Class1, Class2, Class4, Class6).
+Ok，state count of statemachine "StateMachine1" is 8.
+Ok, transition count of statemachine "StateMachine1" is 11.
+Ok, subsequent state count from state "A" in statemachine "StateMachine1" is 6.
+Ok, subsequent state count from state "B" in statemachine "StateMachine1" is 5.
+Ok, subsequent state count from state "C" in statemachine "StateMachine1" is 1.
+Ok, subsequent state count from state "D" in statemachine "StateMachine1" is 3.
+Ok, subsequent state count from state "E" in statemachine "StateMachine1" is 2.
+Ok, subsequent state count from state "F" in statemachine "StateMachine1" is 3.
+Failed, state "G" in statemachine "StateMachine1" not found.
+Failed, state "H" in statemachine "StateMachine1" not found.
+Failed, state "I" in statemachine "StateMachine1" not found.
+Failed, state "J" in statemachine "StateMachine1" not found.
+Ok，state count of statemachine "StateMachine2" is 2.
+Ok, transition count of statemachine "StateMachine2" is 1.
+Failed, state "A" in statemachine "StateMachine2" not found.
+Failed, state "B" in statemachine "StateMachine2" not found.
+Failed, state "C" in statemachine "StateMachine2" not found.
+Failed, state "D" in statemachine "StateMachine2" not found.
+Failed, state "E" in statemachine "StateMachine2" not found.
+Failed, state "F" in statemachine "StateMachine2" not found.
+Failed, state "G" in statemachine "StateMachine2" not found.
+Failed, state "H" in statemachine "StateMachine2" not found.
+Failed, state "I" in statemachine "StateMachine2" not found.
+Failed, state "J" in statemachine "StateMachine2" not found.
+Ok，state count of statemachine "StateMachine3" is 10.
+Ok, transition count of statemachine "StateMachine3" is 17.
+Ok, subsequent state count from state "A" in statemachine "StateMachine3" is 1.
+Ok, subsequent state count from state "B" in statemachine "StateMachine3" is 1.
+Ok, subsequent state count from state "C" in statemachine "StateMachine3" is 1.
+Ok, subsequent state count from state "D" in statemachine "StateMachine3" is 4.
+Ok, subsequent state count from state "E" in statemachine "StateMachine3" is 1.
+Ok, subsequent state count from state "F" in statemachine "StateMachine3" is 1.
+Ok, subsequent state count from state "G" in statemachine "StateMachine3" is 2.
+Ok, subsequent state count from state "H" in statemachine "StateMachine3" is 2.
+Failed, state "I" in statemachine "StateMachine3" not found.
+Failed, state "J" in statemachine "StateMachine3" not found.
+Failed, statemachine "StateMachine4" not found.
+Failed, statemachine "StateMachine4" not found.
+Failed, statemachine "StateMachine4" not found.
+Ok, participant count of umlinteraction "Interaction1" is 6.
+Ok, message count of umlinteraction "Interaction1" is 20.
+Ok, incoming message count of lifeline "A" in umlinteraction "Interaction1" is 3.
+Ok, incoming message count of lifeline "B" in umlinteraction "Interaction1" is 4.
+Ok, incoming message count of lifeline "C" in umlinteraction "Interaction1" is 3.
+Ok, incoming message count of lifeline "D" in umlinteraction "Interaction1" is 3.
+Ok, incoming message count of lifeline "E" in umlinteraction "Interaction1" is 5.
+Ok, incoming message count of lifeline "F" in umlinteraction "Interaction1" is 2.
+Failed, lifeline "G" in umlinteraction "Interaction1" not found.
+Failed, lifeline "H" in umlinteraction "Interaction1" not found.
+Failed, lifeline "I" in umlinteraction "Interaction1" not found.
+Ok, participant count of umlinteraction "Interaction2" is 3.
+Ok, message count of umlinteraction "Interaction2" is 7.
+Ok, incoming message count of lifeline "A" in umlinteraction "Interaction2" is 1.
+Ok, incoming message count of lifeline "B" in umlinteraction "Interaction2" is 4.
+Ok, incoming message count of lifeline "C" in umlinteraction "Interaction2" is 2.
+Failed, lifeline "D" in umlinteraction "Interaction2" not found.
+Failed, lifeline "E" in umlinteraction "Interaction2" not found.
+Failed, lifeline "F" in umlinteraction "Interaction2" not found.
+Failed, lifeline "G" in umlinteraction "Interaction2" not found.
+Failed, lifeline "H" in umlinteraction "Interaction2" not found.
+Failed, lifeline "I" in umlinteraction "Interaction2" not found.
+Ok, participant count of umlinteraction "Interaction3" is 1.
+Ok, message count of umlinteraction "Interaction3" is 8.
+Ok, incoming message count of lifeline "A" in umlinteraction "Interaction3" is 8.
+Failed, lifeline "B" in umlinteraction "Interaction3" not found.
+Failed, lifeline "C" in umlinteraction "Interaction3" not found.
+Failed, lifeline "D" in umlinteraction "Interaction3" not found.
+Failed, lifeline "E" in umlinteraction "Interaction3" not found.
+Failed, lifeline "F" in umlinteraction "Interaction3" not found.
+Failed, lifeline "G" in umlinteraction "Interaction3" not found.
+Failed, lifeline "H" in umlinteraction "Interaction3" not found.
+Failed, lifeline "I" in umlinteraction "Interaction3" not found.
+Failed, umlinteraction "Interaction4" not found.
+Failed, umlinteraction "Interaction4" not found.
+Failed, umlinteraction "Interaction4" not found.

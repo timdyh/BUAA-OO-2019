@@ -1,0 +1,2 @@
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"ClassA","_type":"UMLClass","_id":"AAAAAAFq90oN6mT64mE="}
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"ClassB","_type":"UMLClass","_id":"AAAAAAFq90oU5WUj07Q="}

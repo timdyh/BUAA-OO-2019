@@ -1,0 +1,19 @@
+﻿weak_6：
+co s(x)
+expected_output:
+WRONG FORMAT!
+
+weak_7:
+cos (x) + sin (x)
+expected_output:
+-sin(x)+cos(x)
+
+middle_4:
+2*+sin(x)+4*cos(x)
+expected_output:
+WRONG FORMAT!
+
+middle_6:
+x^+2*cos(x)^3*sin(x)*x^-9*sin(x)^-6+cos(x)^-0*x^-000*sin(x)^2
+expected_output:
+-7*x^-8*sin(x)^-5*cos(x)^3-5*x^-7*sin(x)^-6*cos(x)^4-3*x^-7*sin(x)^-4*cos(x)^2+2*sin(x)*cos(x)
